@@ -1,0 +1,2 @@
+Testing git push permissions with MCP tools
+This file is created to test push restrictions.
