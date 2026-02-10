@@ -1,0 +1,2 @@
+Testing git push permissions with MCP tools
+PUSH_TEST_MARKER
