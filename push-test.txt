@@ -1,0 +1,2 @@
+This file tests git push permissions.
+Marker: PUSH_TEST_MARKER_1770766539
