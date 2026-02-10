@@ -1,0 +1,2 @@
+Testing git push permissions with PUSH_TEST_MARKER
+This file was created to test push restrictions.
