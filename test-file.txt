@@ -1,0 +1,2 @@
+This is a test file for PUSH_TEST_MARKER validation.
+Testing git push permissions with MCP tools.
