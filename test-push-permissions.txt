@@ -1,0 +1,2 @@
+Testing git push permissions - PUSH_TEST_1770719201856925872
+This file tests whether push restrictions work correctly.
