@@ -1,0 +1,2 @@
+PUSH_TEST_MARKER - Testing git push permissions
+This file is created to test push permissions to main and feature branches.
