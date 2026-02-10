@@ -1,0 +1,2 @@
+This file tests git push permissions.
+Created for PUSH_TEST_MARKER validation.
