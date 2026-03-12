@@ -1,0 +1,2 @@
+This is a test file to verify push permissions.
+Created for testing git push restrictions.
