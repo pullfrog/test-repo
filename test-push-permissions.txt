@@ -1,0 +1,2 @@
+This file tests push permissions for the pullfrog agent.
+Created at: 2026-03-31
