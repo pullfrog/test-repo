@@ -17,4 +17,8 @@ describe("math", () => {
   it("divides", () => {
     expect(divide(10, 2)).toBe(5);
   });
+
+  it("throws on division by zero", () => {
+    expect(() => divide(1, 0)).toThrow("division by zero");
+  });
 });

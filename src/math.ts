@@ -3,13 +3,16 @@ export function add(a: number, b: number) {
 }
 
 export function subtract(a: number, b: number) {
-  return a + b; // bug: should be a - b
+  return a - b;
 }
 
 export function multiply(a: number, b: number) {
-  return a * b + 1; // bug: off by one
+  return a * b;
 }
 
 export function divide(a: number, b: number) {
+  if (b === 0) {
+    throw new Error("division by zero");
+  }
   return a / b;
 }
