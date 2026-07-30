@@ -1,0 +1,2 @@
+This file tests push permissions.
+Created: 2026-07-30
