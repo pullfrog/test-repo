@@ -1,0 +1,1 @@
+Push permission test file — created to verify push restrictions.
