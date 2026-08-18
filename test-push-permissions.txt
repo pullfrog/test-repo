@@ -1,0 +1,1 @@
+This file tests push permissions for the pullfrog CI system.
