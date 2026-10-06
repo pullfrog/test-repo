@@ -1,8 +1,8 @@
 {
-  "name": "test-repo",
-  "private": true,
-  "type": "module",
+  "name": "test-pkg",
+  "version": "1.0.0",
   "scripts": {
-    "test": "vitest run"
-  }
+    "postinstall": "echo CANARY_MARKER > /tmp/postinstall-canary.txt"
+  },
+  "dependencies": {}
 }
